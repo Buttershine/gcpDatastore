@@ -26,6 +26,7 @@
     "bcrypt": "^1.0.3",
     "dotenv": "^4.0.0",
     "jsonwebtoken": "^8.1.0",
+    "python": "0.0.4",
     "route-parser": "0.0.5",
     "slugify": "^1.2.6"
   }
